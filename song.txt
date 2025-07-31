@@ -25,3 +25,4 @@ Whoa, oh, oh, oh, oh, whoa, oh, oh, oh, I'm radioactive, radioactive (x2)
 
 I want a new branch
 
+I want to merge non-fast forward merge
